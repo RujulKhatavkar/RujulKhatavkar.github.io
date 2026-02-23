@@ -77,6 +77,7 @@ export function Skills() {
             <Sparkles className="w-8 h-8 text-blue-400" />
             Technical Skills
           </motion.h2>
+          
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {skillCategories.map((category, index) => {

@@ -5,6 +5,7 @@ import { Experience } from "./components/Experience";
 import { Skills } from "./components/Skills";
 import { Footer } from "./components/Footer";
 import { GlobalParallaxBackground } from "./components/bgParralax";
+import { Projects } from "./components/Projects";
 
 export default function App() {
   return (
@@ -15,6 +16,7 @@ export default function App() {
       <Education />
       <Experience />
       <Skills />
+      <Projects />
       <Footer />
     </div>
   );

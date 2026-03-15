@@ -26,6 +26,7 @@ const dataScience: Project[] = [
     desc: "AI-assisted medicine scanning concept with OCR/LLM-style structured outputs.",
     tech: ["OCR", "LLM", "Python"],
     repoUrl: `${GH}/MediScanAI`,
+    demoUrl: `https://mediscanai-awawujdbrqnw6df6eajuxa.streamlit.app/`
     
   },
   {

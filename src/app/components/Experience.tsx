@@ -25,7 +25,7 @@ const experiences = [
   },
   {
     company: "VERITAS (Sponsored Project)",
-    role: "Data Engineer (Student Volunteer)",
+    role: "Software Engineer (Student Volunteer)",
     location: "Champaign, IL",
     date: "Jan 2024 - May 2024",
     color: "from-blue-600 to-blue-800",
